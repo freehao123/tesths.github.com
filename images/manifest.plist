@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://tesths.github.io/images/test/repokemongo.ipa</string>
+                    <string>http://walkginkgo.com/images/test/repokemongo.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://tesths.github.io/images/test/AppIcon57.png</string>
+                    <string>https://walkginkgo.com/images/test/AppIcon57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://tesths.github.io/images/test/AppIcon180.png</string>
+                    <string>https://walkginkgo.com/images/test/AppIcon180.png</string>
                 </dict>
             </array>
             <key>metadata</key>
